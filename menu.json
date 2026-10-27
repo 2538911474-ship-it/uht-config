@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "tabs": [
+    {
+      "name": "ESP",
+      "items": [
+        { "key": "esp",   "label": "开启绘制", "type": "check" },
+        { "key": "box",   "label": "显示方框", "type": "check" },
+        { "key": "line",  "label": "显示射线", "type": "check" },
+        { "key": "name",  "label": "显示名称", "type": "check" },
+        { "key": "bones", "label": "显示骨骼", "type": "check" }
+      ]
+    }
+  ]
+}
